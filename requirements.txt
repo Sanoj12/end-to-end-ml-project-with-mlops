@@ -1,0 +1,15 @@
+pandas
+mlflow
+notebook
+numpy
+scikit-learn
+matplotlib
+pyYAML
+tqdm
+python-box
+types-pyYAML
+
+Flask
+Flask-Cors
+
+-e . #setup.py
