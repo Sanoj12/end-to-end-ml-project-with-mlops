@@ -8,8 +8,8 @@ pyYAML
 tqdm
 python-box
 types-pyYAML
-
+typeguard
 Flask
 Flask-Cors
-
+dynaconf
 -e . #setup.py

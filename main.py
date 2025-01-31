@@ -1,5 +1,9 @@
 from src.mlProject import logger 
+from mlProject.pipeline.stage_1_data_ingestion import DataIngestionPipeline 
 
 
-logger.info("welcome to our custom logging")
+
+
+
+
 
