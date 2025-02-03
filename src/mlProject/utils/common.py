@@ -9,7 +9,7 @@ import json
 
 import joblib
 
-from ensure import ensure_annotations
+#from ensure import ensure_annotations
 #from enforce import runtime_validation
 
 from box import ConfigBox
@@ -22,7 +22,7 @@ from typing import Any
 
 
 
-@ensure_annotations
+#@ensure_annotations
 def read_yaml(path_to_yaml:Path) ->ConfigBox:
 
     #Reads a YAML file and converts it into a ConfigBox.
@@ -42,7 +42,7 @@ def read_yaml(path_to_yaml:Path) ->ConfigBox:
 
 
 
-@ensure_annotations
+#@ensure_annotations
 
 def create_directories(path_to_directories:list):
 
