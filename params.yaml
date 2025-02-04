@@ -1,0 +1,5 @@
+###elastic net algorithm
+
+ElasticNet:
+    alpha:0.5
+    li_ratio:0.7

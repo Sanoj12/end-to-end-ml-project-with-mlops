@@ -6,10 +6,9 @@ scikit-learn
 matplotlib
 pyYAML
 tqdm
-python-box
+python-box[all]~=7.0
 types-pyYAML
 typeguard
 Flask
 Flask-Cors
-dynaconf
 -e . #setup.py
